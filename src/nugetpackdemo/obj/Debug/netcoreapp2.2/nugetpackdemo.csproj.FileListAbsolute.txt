@@ -1,0 +1,9 @@
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\bin\Debug\netcoreapp2.2\nugetpackdemo.deps.json
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\bin\Debug\netcoreapp2.2\nugetpackdemo.dll
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\bin\Debug\netcoreapp2.2\nugetpackdemo.pdb
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.csprojAssemblyReference.cache
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.csproj.CoreCompileInputs.cache
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.AssemblyInfoInputs.cache
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.AssemblyInfo.cs
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.dll
+D:\oschina.code\0.mygithub\nugetpackdemo\src\nugetpackdemo\obj\Debug\netcoreapp2.2\nugetpackdemo.pdb
