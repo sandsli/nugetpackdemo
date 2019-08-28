@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "nugetpackdemo/1.0.1": {
+      "nugetpackdemo/1.0.0": {
         "runtime": {
           "nugetpackdemo.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "nugetpackdemo/1.0.1": {
+    "nugetpackdemo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
